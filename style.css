@@ -1,0 +1,59 @@
+#Header{
+  float: left;
+}
+#list ul li{
+  list-style: none;
+  float: right;
+  padding: 1%;
+}
+img{
+  width: 50%;
+}
+#content{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 110vh
+}
+#center{
+  position: absolute;
+  top: 45%;
+  left: 27%;
+  font-size: 60px;
+  color: aliceblue;
+  font-weight: bolder;
+}
+#button{
+  color: aliceblue;
+  position: absolute;
+  top: 60%;
+  left: 38%;
+  background-color: orangered;
+  border: 2px solid orangered;
+  font-size: 30px;
+  font-weight: bold;
+}
+#list2 ul li{
+  list-style: none;
+ display: inline;
+ padding: 4%;
+position: relative;
+left: 23%;
+
+}
+#list3{
+  list-style: none;
+ 
+  padding: 1%;
+  display: inline;
+  position: relative;
+  left: 27%;
+  text-align: left;
+  border: 1px solid gainsboro;
+  
+  
+}
+#parent{
+  position: relative;
+  
+}
